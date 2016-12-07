@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">10k</string>
+
+    <!-- SOCKET.IO -->
+    <string name="SOCKET_SUCCESS_CONNECT">서버와 통신 연결되었습니다.</string>
+    <string name="SOCKET_ERROR_CONNECT">서버와 통신 연결하는데 오류가 발생했습니다.</string>
+    <string name="SOCKET_DISCONNECT">서버와 통신 연결이 끊겼습니다.</string>
 </resources>
